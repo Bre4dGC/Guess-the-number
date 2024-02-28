@@ -1,0 +1,7 @@
+C:\Users\quest\GitRepos\repos\Guess the number\Guess the number\bin\Debug\Guess the number.exe.config
+C:\Users\quest\GitRepos\repos\Guess the number\Guess the number\bin\Debug\Guess the number.exe
+C:\Users\quest\GitRepos\repos\Guess the number\Guess the number\bin\Debug\Guess the number.pdb
+C:\Users\quest\GitRepos\repos\Guess the number\Guess the number\obj\Debug\Guess the number.csproj.AssemblyReference.cache
+C:\Users\quest\GitRepos\repos\Guess the number\Guess the number\obj\Debug\Guess the number.csproj.CoreCompileInputs.cache
+C:\Users\quest\GitRepos\repos\Guess the number\Guess the number\obj\Debug\Guess the number.exe
+C:\Users\quest\GitRepos\repos\Guess the number\Guess the number\obj\Debug\Guess the number.pdb
